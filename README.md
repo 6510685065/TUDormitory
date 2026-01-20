@@ -7,3 +7,5 @@
 - flutter pup get
 - flutter run
 
+# APK
+- สามารถ download เเละ ติดตั้งได้เลย
